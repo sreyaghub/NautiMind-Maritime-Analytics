@@ -1,10 +1,10 @@
-# 🚢 NautiMind: AI-Powered Vessel Performance & Voyage Optimization Platform
+# 🚢 NautiMind – AI-Powered Vessel Performance & Voyage Optimization Platform
 
 ## Overview
 
-NautiMind is an AI-powered maritime decision support platform designed to analyze vessel performance, evaluate weather impact, optimize voyage routes, and improve fuel efficiency using vessel Noon Report data.
+NautiMind is an AI-powered maritime decision support platform that processes vessel Noon Report data to analyze operational performance, assess weather impact, optimize voyage routes, predict ETA, estimate fuel and cost savings, and generate actionable recommendations for maritime operations.
 
-The platform helps ship operators and maritime stakeholders make data-driven decisions by combining performance analytics, weather intelligence, route optimization, ETA prediction, fuel-saving recommendations, and report generation in a single dashboard.
+The platform combines vessel performance analytics, weather intelligence, voyage optimization, and reporting capabilities into a unified dashboard for smarter maritime decision-making.
 
 ---
 
@@ -13,21 +13,22 @@ The platform helps ship operators and maritime stakeholders make data-driven dec
 ### 🚢 Vessel Performance Analysis
 
 * Noon Report processing
+* Vessel KPI dashboard
 * Performance score calculation
 * Speed efficiency analysis
-* Fuel consumption analysis
-* Charter compliance monitoring
+* Fuel consumption monitoring
+* Charter compliance assessment
 * AI-powered performance insights
 
 ### 🌦 Weather Intelligence
 
 * Wind speed monitoring
 * Wave height estimation
-* Beaufort scale calculation
+* Beaufort scale analysis
 * Ocean condition assessment
-* Weather risk analysis
+* Weather risk evaluation
 * Route weather forecasting
-* AI weather advisory system
+* AI weather advisory
 
 ### 🗺 Voyage Optimization
 
@@ -35,18 +36,18 @@ The platform helps ship operators and maritime stakeholders make data-driven dec
 * Alternative route recommendations
 * Weather-aware routing
 * ETA prediction
-* Fuel-saving estimation
-* Cost-saving analysis
-* CO₂ emission reduction calculation
-* AI-powered voyage recommendations
+* Fuel optimization
+* Cost-saving estimation
+* CO₂ emission reduction analysis
+* AI voyage recommendations
 
 ### 📄 Reporting
 
 * Voyage performance reports
-* Charter risk assessment
-* Weather impact summary
-* Fuel efficiency reports
-* Downloadable PDF report generation
+* Charter claim analysis
+* Fuel-saving opportunities
+* Weather risk summary
+* Downloadable PDF reports
 
 ---
 
@@ -83,28 +84,28 @@ The platform helps ship operators and maritime stakeholders make data-driven dec
 2. Extract operational metrics
 3. Analyze vessel performance
 4. Assess weather conditions
-5. Generate voyage optimization recommendations
-6. Estimate fuel and cost savings
-7. Calculate CO₂ reduction
-8. Produce operational reports
+5. Optimize voyage routes
+6. Predict ETA and fuel requirements
+7. Calculate cost and carbon savings
+8. Generate operational reports
 
 ---
 
-## Modules
+## Project Modules
 
 ### Main Dashboard
 
 * Vessel information
-* Performance metrics
-* Alerts and notifications
-* Commercial impact analysis
+* Operational metrics
+* Performance overview
+* Commercial impact assessment
 
 ### Performance Analytics
 
 * KPI dashboard
-* Speed benchmark comparison
+* Speed benchmark analysis
 * Fuel efficiency analysis
-* Historical performance trends
+* Performance trends
 * AI performance insights
 
 ### Weather Analysis
@@ -129,17 +130,17 @@ The platform helps ship operators and maritime stakeholders make data-driven dec
 * Voyage summary
 * Performance report
 * Weather assessment
-* Exportable PDF reports
+* Exportable PDF report
 
 ---
 
 ## Future Enhancements
 
-* Real-time AIS vessel tracking
 * Live weather API integration
-* Advanced route optimization algorithms
-* Predictive maintenance analytics
-* Fleet-level performance monitoring
+* Real-time vessel tracking
+* Fleet-wide analytics
+* Predictive maintenance insights
+* Advanced route optimization
 * Digital twin simulation
 
 ---
@@ -153,4 +154,4 @@ B.Tech CSE (AI & ML)
 
 ## License
 
-This project was developed for academic, innovation challenge, and internship demonstration purposes.
+This project is developed for academic, innovation challenge, and internship demonstration purposes.
